@@ -9,19 +9,19 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>+ (instancetype)shared&lt;#name#&gt; {
-    static &lt;#Class#&gt; *_shared&lt;#name#&gt; = nil;
+	<string>+ (instancetype)sharedInstance {
+    static &lt;#Class#&gt; *_shared = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&amp;onceToken, ^{
-        _shared&lt;#name#&gt; = [[&lt;#Class#&gt; alloc] init];
+        _shared = [[&lt;#Class#&gt; alloc] init];
     });
     
-    return _shared&lt;#name#&gt;;
+    return _shared;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>500A9BFD-503A-4480-8218-D601807A99B0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>shared singleton</string>
 	<key>IDECodeSnippetTitle</key>

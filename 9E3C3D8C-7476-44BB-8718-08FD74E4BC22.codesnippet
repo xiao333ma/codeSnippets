@@ -13,11 +13,11 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9E3C3D8C-7476-44BB-8718-08FD74E4BC22</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>copy property</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Copy Property</string>
+	<string>Property: Copy </string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

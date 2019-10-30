@@ -21,9 +21,11 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1CA6FA2C-F01B-4395-B850-654C9EE7B2CC</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>lazyLabel</string>
+	<string>Lazy Label</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

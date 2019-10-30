@@ -3,30 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lv</string>
+	<string>lmd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (UIView *)&lt;#property#&gt; {
+	<string>- (NSMutableDictionary *)&lt;#property#&gt; {
     if (!_&lt;#property#&gt;) {
-        _&lt;#property#&gt; = [[UIView alloc] init];
-        &lt;##&gt;
+        _&lt;#property#&gt; = [[NSMutableDictionary alloc] init];
     }
     return _&lt;#property#&gt;;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>75F086DF-1399-4ECF-9315-3F5894CF3CC2</string>
+	<string>EFE4F541-E8E6-4CBD-AE20-DC8ECECB40AF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Lazy View</string>
+	<string>Lazy Mutable Dict</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

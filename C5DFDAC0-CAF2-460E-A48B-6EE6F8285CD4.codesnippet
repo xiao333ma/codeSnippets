@@ -2,22 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>lma</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) &lt;#ddddd#&gt; ddd
-</string>
+	<string>- (NSMutableArray *)&lt;#property#&gt; {
+    if (!_&lt;#property#&gt;) {
+        _&lt;#property#&gt; = [[NSMutableArray alloc] init];
+    }
+    return _&lt;#property#&gt;;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5980A2A6-870D-40A2-B820-D9FAFEDFCE7C</string>
+	<string>C5DFDAC0-CAF2-460E-A48B-6EE6F8285CD4</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>Lazy Mutable Array</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

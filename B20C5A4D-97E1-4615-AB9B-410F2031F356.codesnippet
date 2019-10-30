@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B20C5A4D-97E1-4615-AB9B-410F2031F356</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>lazy load</string>
 	<key>IDECodeSnippetTitle</key>

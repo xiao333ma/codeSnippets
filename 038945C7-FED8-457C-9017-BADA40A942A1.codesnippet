@@ -19,9 +19,11 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>038945C7-FED8-457C-9017-BADA40A942A1</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>lazyButton</string>
+	<string>Lazy Button</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

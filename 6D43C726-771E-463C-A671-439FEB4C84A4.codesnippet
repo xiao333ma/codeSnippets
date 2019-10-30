@@ -14,11 +14,11 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D43C726-771E-463C-A671-439FEB4C84A4</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>assign property</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Assign Property</string>
+	<string>Property: Assign </string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

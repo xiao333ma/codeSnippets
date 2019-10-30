@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>lt</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>- (UITableView *)&lt;#tableViewName#&gt; {
+    if (!_&lt;#tableViewName#&gt;) {
+        _&lt;#tableViewName#&gt; = [[UITableView alloc] initWithFrame:CGRectZero style:UITableViewStylePlain];
+        _&lt;#tableViewName#&gt;.backgroundColor = [UIColor whiteColor];
+        [_&lt;#tableViewName#&gt; registerClass:[&lt;#registerClassName#&gt; class] forCellReuseIdentifier:&lt;#registerClassCellID#&gt;];
+        _&lt;#tableViewName#&gt;.delegate = self;
+        _&lt;#tableViewName#&gt;.dataSource = self;
+    }
+    return _&lt;#tableViewName#&gt;;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0287BB2E-63DA-4E28-BB14-7D23E92E42A5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Lazy TableView</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
