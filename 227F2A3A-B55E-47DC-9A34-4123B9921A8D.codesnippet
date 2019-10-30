@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, weak) &lt;#Class#&gt; *&lt;#property#&gt;;     &lt;##&gt;//!&lt; &lt;#note#&gt;</string>
+	<string>@property (nonatomic, weak  ) &lt;#Class#&gt; *&lt;#property#&gt;;     &lt;##&gt;//!&lt; &lt;#note#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>227F2A3A-B55E-47DC-9A34-4123B9921A8D</string>
 	<key>IDECodeSnippetLanguage</key>

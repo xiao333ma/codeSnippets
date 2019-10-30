@@ -3,33 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pp</string>
+	<string>sss</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Layout
-
-- (void)initializeView {
-    
-}
-
-#pragma mark - Action
-
-#pragma mark - Helper
-
-#pragma mark - Delegate
-
-#pragma mark - Accessor</string>
+	<string>@strongify(self);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6E69027B-DF9D-4ACC-B3AF-29B48C25ABEB</string>
+	<string>201AEE12-5A56-4D0C-BC78-44E575B003DA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>code structure</string>
+	<string>strongSelf</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Code Structure</string>
+	<string>strongSelf</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

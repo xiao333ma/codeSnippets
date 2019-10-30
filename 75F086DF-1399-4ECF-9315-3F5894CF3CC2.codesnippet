@@ -3,33 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pp</string>
+	<string>lv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Layout
-
-- (void)initializeView {
-    
-}
-
-#pragma mark - Action
-
-#pragma mark - Helper
-
-#pragma mark - Delegate
-
-#pragma mark - Accessor</string>
+	<string>- (UIView *)&lt;#property#&gt; {
+    if (!_&lt;#property#&gt;) {
+        _&lt;#property#&gt; = [[UIView alloc] init];
+        &lt;##&gt;
+    }
+    return _&lt;#property#&gt;;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6E69027B-DF9D-4ACC-B3AF-29B48C25ABEB</string>
+	<string>75F086DF-1399-4ECF-9315-3F5894CF3CC2</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>code structure</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Code Structure</string>
+	<string>lazyView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

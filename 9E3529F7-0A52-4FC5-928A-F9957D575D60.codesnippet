@@ -3,36 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pp</string>
+	<string>kvo</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Layout
-
-- (void)initializeView {
-    
-}
-
-#pragma mark - Action
-
-#pragma mark - Helper
-
-#pragma mark - Delegate
-
-#pragma mark - Accessor</string>
+	<string>[IGCObserve(&lt;#TARGET#&gt;, &lt;#KEYPATH#&gt;) handle:^(id newValue) {
+    @strongify(self);
+        
+}]</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6E69027B-DF9D-4ACC-B3AF-29B48C25ABEB</string>
+	<string>9E3529F7-0A52-4FC5-928A-F9957D575D60</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>code structure</string>
+	<string>kvo</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Code Structure</string>
+	<string>create kvo</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

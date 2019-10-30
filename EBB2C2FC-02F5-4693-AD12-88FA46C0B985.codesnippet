@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__strong __typeof(&lt;#weakSelf#&gt;)strongSelf = &lt;#weakSelf#&gt;;
+	<string>__strong __typeof(weakSelf)strongSelf = weakSelf;
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EBB2C2FC-02F5-4693-AD12-88FA46C0B985</string>
