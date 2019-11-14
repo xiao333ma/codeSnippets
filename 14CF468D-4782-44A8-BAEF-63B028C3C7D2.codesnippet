@@ -3,24 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>kvo</string>
+	<string>pd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[IGCObserve(&lt;#TARGET#&gt;, &lt;#KEYPATH#&gt;) handle:^(id newValue) {
-    @strongify(self);
-        
-}]</string>
+	<string>//!&lt; &lt;#document#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9E3529F7-0A52-4FC5-928A-F9957D575D60</string>
+	<string>14CF468D-4782-44A8-BAEF-63B028C3C7D2</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>kvo</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Create KVO</string>
+	<string>Property：quick document</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
